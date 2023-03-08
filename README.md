@@ -12,6 +12,7 @@ Here are some ideas to get you started:
   - Stock Market Trading Bot using Reinforcement Learning
   <br>
 - 🌱 I’m currently learning Deep Learning
+- <br>
 - 👯 I’m looking to collaborate in Hackathons and Open Source Projects
 <!--
 - 💬 Ask me about ...
