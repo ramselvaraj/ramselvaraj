@@ -8,9 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a couple of projects-
 <br>
   - Animated Video Generation with Temporal and Sequential Storylines from scripts
-  <br>
-  - Stock Market Trading Bot using Reinforcement Learning
-  <br>
 - 🌱 I’m currently learning Deep Learning
 - <br>
 - 👯 I’m looking to collaborate in Hackathons and Open Source Projects
