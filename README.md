@@ -1,6 +1,7 @@
 # Hi, I'm Ram Selvaraj
 
 Learning computer architecture through RTL design and low-level embedded systems programming.
+I also work with FPGAs.
 
 [www.ramselvaraj.com](https://www.ramselvaraj.com)
 
